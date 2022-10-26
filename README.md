@@ -4,7 +4,7 @@
 
 - 🌱 Estoy en proceso de aprendizaje de **Angular y React.**
 
-- 👩‍💻 Algunos proyectos realizados: [https://github.com/Bellasacc?tab=repositories](https://github.com/Bellasacc?tab=repositories)
+- 👩‍💻 Algunos proyectos realizados: 👉 [Aqui](https://github.com/Bellasacc?tab=repositories)
 
 - 📫 Contáctame: **bellasacc10@gmail.com**
 
